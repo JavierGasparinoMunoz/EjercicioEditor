@@ -1,2 +1,2 @@
 # EjercicioEditor
-Editor de texto
+Editor de texto creado con java
